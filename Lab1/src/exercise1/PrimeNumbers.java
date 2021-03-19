@@ -1,3 +1,8 @@
+/**
+* Name : Sagnik Maity
+* Description : Display prime numbers certain range
+* Date : 3/13/2021
+*/
 package exercise1;
 
 import java.util.Scanner;
